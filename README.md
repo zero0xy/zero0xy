@@ -1,4 +1,4 @@
-<h1 align="center">Me zero</h1>
+<h1 align="center"><b><i>Me zero<i/></b></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zero0xy&label=Profile%20views&color=0e75b6&style=flat" alt="zero0xy" /> </p>
