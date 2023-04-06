@@ -1,4 +1,4 @@
-_Me Zero_
+*Me Zero*
 
 <a href="https://www.codechef.com/users/zero0xy" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384055.png" alt="zero0xy" height="30" width="40" /></a>
 
