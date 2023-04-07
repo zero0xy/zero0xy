@@ -3,7 +3,7 @@
 > CEH  
 
 ## Matter
-* [Linux](https://github.com/zero0xy/)
+* [Linux](https://github.com/zero0xy/linux)
 * [Termux](https://github.com/zero0xy/)
 * [Digital Forensic](https://github.com/zero0xy/)
 * [Bug Bounty Zone](https://github.com/zero0xy/)
