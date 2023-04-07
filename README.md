@@ -8,4 +8,4 @@
 * [Digital Forensic](https://github.com/zero0xy/)
 * [Bug Bounty Zone](https://github.com/zero0xy/)
 
-![Made with python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="android" width="40" height="40"/> </a>
