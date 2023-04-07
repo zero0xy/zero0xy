@@ -1,5 +1,5 @@
 
-![Contributors](https://img.shields.io/github/contributors/zero0xy/zero?color=dark-green) ![Forks](https://img.shields.io/github/forks/zero0xy/zero?style=social) ![](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)
+![Contributors](https://img.shields.io/github/contributors/zero0xy/zero?color=dark-green) ![Forks](https://img.shields.io/github/forks/zero0xy/zero?style=social) ![](https://img.shields.io/github/followers/{zero0xy}.svg?style=social&label=Follow&maxAge=2592000)
 > CEH  
 
 ## Matter
