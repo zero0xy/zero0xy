@@ -1,5 +1,5 @@
 
-![Downloads](https://img.shields.io/github/downloads/ShaanCoding/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![Issues](https://img.shields.io/github/issues/ShaanCoding/ReadME-Generator) ![License](https://img.shields.io/github/license/ShaanCoding/ReadME-Generator) 
+![Contributors](https://img.shields.io/github/contributors/zero0xy/zero?color=dark-green) ![Forks](https://img.shields.io/github/forks/zero0xy/zero?style=social) 
 > CEH  
 
 ## Matter
